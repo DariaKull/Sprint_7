@@ -1,0 +1,12 @@
+ru\yandex\praktikum\sprint7\courier\Registration.class
+ru\yandex\praktikum\sprint7\order\Order.class
+ru\yandex\praktikum\sprint7\order\OrderData.class
+ru\yandex\praktikum\sprint7\order\OrderList.class
+ru\yandex\praktikum\sprint7\courier\CourierAuthorization.class
+ru\yandex\praktikum\sprint7\courier\AuthorizationAssert.class
+ru\yandex\praktikum\sprint7\courier\CourierCreation.class
+ru\yandex\praktikum\sprint7\order\OrderAssert.class
+ru\yandex\praktikum\sprint7\courier\RegistrationAssert.class
+ru\yandex\praktikum\sprint7\courier\CourierData.class
+ru\yandex\praktikum\sprint7\courier\Authorization.class
+ru\yandex\praktikum\sprint7\servicedata\ServiceData.class
